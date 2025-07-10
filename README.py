@@ -1,4 +1,4 @@
-# Python
-Just a basic code of Python
-<br>
-My name is Abdulrafay  Jahangir
+x=10
+y=5
+z=x+y
+print("Sum is equal to =",z)
